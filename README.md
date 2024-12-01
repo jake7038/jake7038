@@ -5,7 +5,7 @@
 - 📫 How to reach me: just use my main email address "rafacosta.dev@gmail.com"
 
 
-<img height=160rm width=160rm src="https://github-readme-stats.vercel.app/api/top-langs/?username=jake7038&theme=dark&layout=compact">
+<img height=160rm width=260rm src="https://github-readme-stats.vercel.app/api/top-langs/?username=jake7038&theme=dark&layout=compact">
 
 
 <!---
