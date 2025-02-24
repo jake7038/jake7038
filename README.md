@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafael Costa
-- 👀 I’m interested in Low-level programming language, C#, python, java, html and css
+- 👀 I’m interested in Low-level programming language, C#, python, java, Node, React
 - 🌱 I’m currently learning assemblyhttps://github.com/jake7038/jake7038/blob/main/README.md
 - 💞️ I’m looking to collaborate on any projects if i can help
 - 📫 How to reach me: just use my main email address "rafacosta.dev@gmail.com"
