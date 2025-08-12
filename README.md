@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Rafael Costa
-- 👀 I’m interested in Low-level programming language, C#, python, java, Node, React
+- 👋 Hi, I’m Rafael Costa, Brazilian coder who wants to be a pentester but end up doing more web pages than anything else 🤣
+- 👀 I’m interested in NodeJS, C++, Python, C#, Front (React), ShellScripts
+### 🚀 Spotlight
+**[LABSEC-HUB](https://github.com/LABSEC-CEFET-RJ/LABSEC-HUB)**
+I am the Tech Lead for LABSEC-HUB, a platform dedicated to providing a sandboxed environment for students of CEFET-RJ to train and develop their skills in network penetration testing. i am responsible for the Back-end architecture, Designing and making the vulnerables virtual machines, Front-end, Mentoring the development team and Code quality assurance
 - 🌱 I’m currently learning Angular and .Net
-- 💞️ I’m looking to collaborate on any projects if i can help
 - 📫 How to reach me: just use my main email address "rafacosta.dev@gmail.com"
-
-
+- 🎓 Computer Science degree
 <img  width=550rm src="https://github-readme-stats.vercel.app/api/top-langs/?username=jake7038&theme=dark&layout=compact">
 
 
