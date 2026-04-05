@@ -17,12 +17,10 @@
 I am the Tech Lead for **[LABSEC-HUB](https://github.com/LABSEC-CEFET-RJ/LABSEC-HUB)**, a platform dedicated to providing a sandboxed environment for students of CEFET-RJ to train and develop their skills in network penetration testing. i am responsible for the Back-end architecture, Designing and making the vulnerables virtual machines, Front-end, Mentoring the development team and Code quality assurance
 
 ## ⭐ Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jake7038&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img  width=550rm src="https://github-readme-stats.vercel.app/api/top-langs/?username=jake7038&theme=dark&layout=compact">
-
-
+<div style="display: flex; gap: 10px;">
+  <img src="https://ghstats.dev/api/card?username=jake7038&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=jake7038&theme=dark" />
+</div>
 <!---
 jake7038/jake7038 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
