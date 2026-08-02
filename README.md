@@ -11,7 +11,6 @@
   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ## 🚀 Spotlight
 
 I am the Tech Lead for **[LABSEC-HUB](https://github.com/LABSEC-CEFET-RJ/LABSEC-HUB)**, a platform dedicated to providing a sandboxed environment for students of CEFET-RJ to train and develop their skills in network penetration testing. i am responsible for the Back-end architecture, Designing and making the vulnerables virtual machines, Front-end, Mentoring the development team and Code quality assurance
